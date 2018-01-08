@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "Richard Lusch"
+date: "January 7, 2018"
+output: word_document
+---
+
+## Purpose
+
+This repository contains all the work generated for Management Science Through Spreadsheed from SNHU.  I am using the workflow of github becuase I really prefer the reliability and tracking involved.  I have gotten used to it programming in R, so I am extending that to my school work.
+
+## Structure
+
+There will be a folder for each of the 8 modules and also for the final project.  If a module includes work to be done for the final project I will work on it in a branch, merge it with the main, but keep the branch so the work is easily retrievable and viewable.
