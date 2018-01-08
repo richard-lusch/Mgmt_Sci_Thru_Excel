@@ -11,6 +11,15 @@ How do you think qualitative factors might influence the managerial decision-mak
 
 ##  Post
 
+Unfortunately, qualitative factors heavily influence many managerial decision-making processes.  I work in an environment where I get to help managers make data based decisions, and everywhere I turn someone is going by a gut feeling, citing something they thought they heard, or just making up a number for an assumption.
+
+That is not to say that qualitative factors cannot be used in a more useful method to a data scientis or analyst. Taking polls of managers, and combining qualitative factors into descriptive terms can sometimes give an analyst the ability utilized management's experience in a more scientific manner.  For the example given, however, I do not see how qualitative factors would help a business determine ROI and risk exposure to a given project.  Not all problems will be able to have qualitative factors wrapped into them.
+
+However, for management to adopt the model, it is wise, as the book pointed out, to use the model to show a range of possible results and the resultant change in cost between those results.  This will allow management to have their gut feel regarding the model and not feel like they are merely being directed by some algorithm.
+
+Another example of a business problem that can be solved by a model is staffing a call center.  In this arena sometimes the qualitative data can be used, as management can have their pulse on the drivers of the business.  In this case, depending on the nature of the call center, a qualitative factor for whether management believes call volume is increasing or decreasing may be pertinent.
+
+At the end of the day, the reality is that qualitative data can be just as important as quantitative data.  We, as analysts, just need to be wary and careful when using them, and do our best to treat qualitative data in a scientific manner.
 
 ## Peer Response 1
 
