@@ -1,0 +1,20 @@
+---
+title: "Discussion-1"
+author: "Richard Lusch"
+date: "January 7, 2018"
+output: word_document
+---
+
+## Prompt
+
+How do you think qualitative factors might influence the managerial decision-making process? For example, could one use them to evaluate approving and funding projects to determine their return on investment and exposure to risk? What are other examples?
+
+##  Post
+
+
+## Peer Response 1
+
+
+## Peer Response 2
+
+
